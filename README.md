@@ -2,7 +2,8 @@
 
 ## Introduction
 This project aims to classify personalities using machine learning techniques. The Myers-Briggs Type Indicator (MBTI) categorizes individuals into one of 16 personality types based on four dichotomies: Introversion (I) – Extroversion (E), Intuition (N) – Sensing (S), Thinking (T) – Feeling (F), and Judging (J) – Perceiving (P). By employing natural language processing and machine learning algorithms, this project seeks to predict an individual's personality type based on textual data.
-![Personality Image](https://drive.google.com/file/d/1AeS-gUN2wg4omQf1T91qC3AU8A8A3vBW/uc?export=view)
+
+![Personality Image](https://drive.google.com/uc?export=view&id=1AeS-gUN2wg4omQf1T91qC3AU8A8A3vBW)
 
 ## Data Collection
 The dataset used for this project is obtained from Kaggle, containing textual information associated with individuals' personalities as per the MBTI framework.
